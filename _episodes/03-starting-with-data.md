@@ -512,7 +512,7 @@ waves_df.groupby('Name')['record_id'].count()['SW Isles of Scilly WaveNet Site']
 
 ## Basic Maths Functions
 
-If we wanted to, we could perform math on an entire column of our data. For
+If we wanted to, we could perform maths on an entire column of our data. For
 example let's convert all the degrees values to radians. 
 
 ~~~
